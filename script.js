@@ -87,7 +87,7 @@ function clearStatusClass(element) {
 
 const questions = [
     {
-    number: 1,
+    
     question: "Who was the Minister for Finance in Singapore's first cabinet?",
     answers: [
     { text: 'a. Goh Keng Swee', correct: true },
@@ -98,7 +98,7 @@ const questions = [
     img_url: "./images/Goh_Keng_Swee.jpg"
     },
     {
-    number: 2,
+    
     question: "Who was the Minister for Home Affairs in Singapore's first cabinet?",
     answers: [
     { text: 'a. Ahmad Ibrahim', correct: false },
@@ -109,7 +109,7 @@ const questions = [
     img_url: "./images/Ong_Pang_Boon.jpg"
     },
     {
-    number: 3,
+      
     question: "Who was the Minister for Culture in Singapore's first cabinet?",
     answers: [
     { text: 'a. Ahmad Ibrahim', correct: false },
@@ -120,7 +120,7 @@ const questions = [
     img_url: "./images/Sinnathamby_Rajaratnam.jpg"
     },
     {
-    number: 4,
+    
     question: "Who was the Deputy Prime Minister in Singapore's first cabinet?",
     answers: [
     { text: 'a. Sinnathamby Rajaratnam', correct: false },
@@ -131,7 +131,7 @@ const questions = [
     img_url: "./images/Toh_Chin_Chye.jpg"
     },
     {
-    number: 5,
+    
     question: "Who was the Minister for Health in Singapore's first cabinet?",
     answers: [
     { text: 'a. Ahmad Ibrahim', correct: true },
@@ -142,7 +142,7 @@ const questions = [
     img_url: "./images/Ahmad_Ibrahim.jpg"
     },
     {
-    number: 6,
+    
     question: "Who was the Prime Minister in Singapore's first cabinet?",
     answers: [
     { text: "a. Yusof Ishak", correct: false },
